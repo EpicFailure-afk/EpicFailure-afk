@@ -14,7 +14,7 @@
 
 ### 💻 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,bootstrap,tailwind,mysql,mongodb,docker,linux,bash,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,bootstrap,mysql,mongodb,docker,linux,bash,git,vscode,vim,obsidian" />
 </p>
 
 ---
