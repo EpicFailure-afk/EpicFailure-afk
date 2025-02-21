@@ -19,6 +19,13 @@
 
 ---
 
+### ✨ Cool Quotes  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" />
+</p>
+
+---
+
 ### ⚡ Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EpicFailure-afk&show_icons=true&theme=tokyonight" width="48%">
