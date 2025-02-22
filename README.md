@@ -23,19 +23,20 @@
 
 ---
 
-### ✨ Cool Quotes  
+<!--### ✨ Cool Quotes-->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" />
 </p>
 
 ---
 
-### ⚡ Stats  
+<!-- ### ⚡ Stats  -->
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EpicFailure-afk&show_icons=true&theme=tokyonight" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EpicFailure-afk&theme=tokyonight" width="48%">
 </p>
-
+-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EpicFailure-afk&layout=compact&theme=tokyonight" width="48%">
 </p>
