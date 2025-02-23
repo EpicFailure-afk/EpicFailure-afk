@@ -57,4 +57,7 @@
   <a href="https://www.facebook.com/share/1BYt5AVoZC/?mibextid=wwXIfr">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/ahmed.salah.404?igsh=MW9naHZwY2p6dDU3dg%3D%3D&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
