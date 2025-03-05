@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me  
-🔹 **Passionate** *MERN Stack dev* | **Linux User** `Arch btw` 
+ **MERN Stack dev** | **Linux User** `Arch btw` 
 
 
 ---
