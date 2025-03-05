@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed :)</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">Student at Delta university</h3>
 
 <div align="center">
 		<p>
@@ -11,7 +11,7 @@
 
 ### 🚀 About Me  
 🔹 **Passionate MERN Stack dev** | **Linux User** `Arch btw` 
-🔹 Exploring **DevOps**, **System Design**, and **Scalability**  
+
 
 ---
 
