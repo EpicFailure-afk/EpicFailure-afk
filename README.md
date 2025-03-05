@@ -10,8 +10,7 @@
 ---
 
 ### 🚀 About Me  
-🔹 **Frontend Enthusiast** | **Linux User** `Arch btw` | **Full-Stack Developer in Progress**  
-🔹 Learning **Laravel**, **MongoDB**, and **Backend Development**  
+🔹 **Passionate MERN Stack dev** | **Linux User** `Arch btw` 
 🔹 Exploring **DevOps**, **System Design**, and **Scalability**  
 
 ---
