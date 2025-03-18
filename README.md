@@ -48,7 +48,7 @@
 </p>
 -->
 
-![Profile views](https://komarev.com/ghpvc/?username=EpicFailure-afk)
+
 
 ### 🌍 Connect With Me  
 <p align="center">
