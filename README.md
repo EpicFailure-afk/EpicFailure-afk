@@ -48,6 +48,8 @@
 </p>
 -->
 
+![Profile views](https://komarev.com/ghpvc/?username=EpicFailure-afk)
+
 ### 🌍 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-salah-000517351">
