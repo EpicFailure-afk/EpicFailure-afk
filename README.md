@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me  
- **MERN Stack dev** | **Linux User** `Arch btw` 
+ **Aspiring Node.js Backend Developer** | **Linux User** `Arch btw` 
 
 
 ---
