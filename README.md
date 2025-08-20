@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed :)</h1>
-<h3 align="center">Student at Delta university</h3>
+<h3 align="center">Final Year Artificial Intelligence Student | Aspiring Node.js Backend Developer</h3>
 
 <div align="center">
 		<p>
@@ -10,7 +10,10 @@
 ---
 
 ### 🚀 About Me  
- **Aspiring Node.js Backend Developer** | **Linux User** `Arch btw` 
+- Final Year **Artificial Intelligence Student** at Delta University  
+- Focused on **Node.js Backend Development**  
+- Exploring the **MERN Stack** 
+- **Linux User** `Arch btw` 
 
 
 ---
