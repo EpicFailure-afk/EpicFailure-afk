@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 About Me  
+###  About Me  
 - Final Year **Artificial Intelligence Student** at Delta University  
 - ***Node.js Backend Development***  
 - Exploring **DevOps**, **cloud**, and **system automation** 
@@ -18,21 +18,21 @@
 
 ---
 
-### 💻 Languages & Tools  
+###  Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,markdown,html,css,react,bootstrap,mysql,mongodb,docker,kubernetes,linux,git,vscode,vim,obsidian" />
 </p>
 
 ---
 
-<!--### ✨ Cool Quotes-->
+<!--###  Cool Quotes-->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" />
 </p>
 
 ---
 
-<!-- ### ⚡ Stats  -->
+<!-- ###  Stats  -->
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EpicFailure-afk&show_icons=true&theme=tokyonight" width="48%">
@@ -45,7 +45,7 @@
 
 ---
 <!--
-### 🏆 Trophies  
+###  Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EpicFailure-afk&theme=darkhub&no-frame=true&column=4" />
 </p>
@@ -53,7 +53,7 @@
 
 
 
-### 🌍 Connect With Me  
+###  Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-salah-000517351">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
