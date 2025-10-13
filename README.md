@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed :)</h1>
-<h3 align="center">Final Year Artificial Intelligence Student | Aspiring Node.js Backend Developer</h3>
+<h3 align="center">Final Year Artificial Intelligence Student | Node.js Backend Developer | Aspiring DevOps Engineer</h3>
 
 <div align="center">
 		<p>
@@ -11,8 +11,8 @@
 
 ### 🚀 About Me  
 - Final Year **Artificial Intelligence Student** at Delta University  
-- Focused on **Node.js Backend Development**  
-- Exploring the **MERN Stack** 
+- ***Node.js Backend Development***  
+- Exploring **DevOps**, **cloud**, and **system automation** 
 - **Linux User** `Arch btw` 
 
 
@@ -20,7 +20,7 @@
 
 ### 💻 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,markdown,html,css,react,bootstrap,mysql,mongodb,docker,linux,git,vscode,vim,obsidian" />
+  <img src="https://skillicons.dev/icons?i=js,python,markdown,html,css,react,bootstrap,mysql,mongodb,docker,Kubernetes,linux,git,vscode,vim,obsidian" />
 </p>
 
 ---
