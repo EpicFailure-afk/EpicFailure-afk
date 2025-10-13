@@ -20,7 +20,7 @@
 
 ### 💻 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,markdown,html,css,react,bootstrap,mysql,mongodb,docker,Kubernetes,linux,git,vscode,vim,obsidian" />
+  <img src="https://skillicons.dev/icons?i=js,python,markdown,html,css,react,bootstrap,mysql,mongodb,docker,kubernetes,linux,git,vscode,vim,obsidian" />
 </p>
 
 ---
