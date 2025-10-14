@@ -3,7 +3,7 @@
 
 <div align="center">
 		<p>
-			<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=Code+%3E+Sleep;Debug+%3E+Rage;Learn+%3E+Repeat" alt="Typing SVG" />
+			<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=480&lines=Linux+%3E+Code+%3E+Automate;Backend+%3E+DevOps;Learn+%3E+Break+%3E+Fix+%3E+Repeat" alt="Typing SVG" />
 		</p>
 </div>
 
