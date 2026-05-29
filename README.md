@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed :)</h1>
-<h3 align="center">Final Year Artificial Intelligence Student | Node.js Backend Developer | Aspiring DevOps Engineer</h3>
+<h3 align="center">Final Year Artificial Intelligence Student | Node.js Backend Developer | Aspiring AI Security Engineer</h3>
 
 <div align="center">
 		<p>
-			<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=480&lines=Linux+%3E+Code+%3E+Automate;Backend+%3E+DevOps;Learn+%3E+Break+%3E+Fix+%3E+Repeat" alt="Typing SVG" />
+			<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=480&lines=Linux+%3E+Code+%3E+Automate;Backend+%3E+Cybersecurity;Learn+%3E+Break+%3E+Fix+%3E+Repeat" alt="Typing SVG" />
 		</p>
 </div>
 
@@ -12,7 +12,7 @@
 ###  About Me  
 - Final Year **Artificial Intelligence Student** at Delta University  
 - ***Node.js Backend Development***  
-- Exploring **DevOps**, **cloud**, and **system automation** 
+- Exploring **Cybersecurity**, **DevOps**, **cloud**, and **system automation** 
 - **Linux User** `Arch btw` 
 
 
