@@ -10,10 +10,11 @@
 ---
 
 ###  About Me  
-- Final Year **Artificial Intelligence Student** at Delta University  
-- ***Node.js Backend Development***  
-- Exploring **Cybersecurity**, **DevOps**, **cloud**, and **system automation** 
-- **Linux User** `Arch btw` 
+- Computer Science Graduate
+- Backend Developer focused on **C#** and **.NET**
+- Building with ASP.NET Core and SQL Server
+- Background in Node.js and MERN
+- Linux User `Arch btw`
 
 
 ---
