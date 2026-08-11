@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed :)</h1>
-<h3 align="center">Final Year Artificial Intelligence Student | Node.js Backend Developer | Aspiring AI Security Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <div align="center">
 		<p>
