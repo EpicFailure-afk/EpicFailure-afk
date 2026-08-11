@@ -8,7 +8,7 @@
 		</p>
 </div>
 -->
----
+
 
 ###  About Me  
 - Computer Science Graduate
@@ -19,13 +19,14 @@
 
 
 ---
-
+<!--
 ###  Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,markdown,html,css,react,bootstrap,mysql,mongodb,docker,kubernetes,linux,git,vscode,vim,obsidian" />
 </p>
 
 ---
+-->
 
 <!--###  Cool Quotes-->
 <p align="center">
@@ -41,9 +42,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EpicFailure-afk&theme=tokyonight" width="48%">
 </p>
 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EpicFailure-afk&layout=compact&theme=tokyonight" width="48%">
-</p>
 
 ---
 <!--
