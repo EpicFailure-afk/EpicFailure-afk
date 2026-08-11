@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed :)</h1>
 <h3 align="center">Software Engineer</h3>
 
+<!--
 <div align="center">
 		<p>
 			<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=480&lines=Linux+%3E+Code+%3E+Automate;Backend+%3E;Learn+%3E+Break+%3E+Fix+%3E+Repeat" alt="Typing SVG" />
 		</p>
 </div>
-
+-->
 ---
 
 ###  About Me  
